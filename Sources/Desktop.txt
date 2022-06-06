@@ -1,0 +1,105 @@
+
+  _____            _    _              
+ |  __ \          | |  | |             
+ | |  | | ___  ___| | _| |_ ___  _ __  
+ | |  | |/ _ \/ __| |/ / __/ _ \| '_ \ 
+ | |__| |  __/\__ \   <| || (_) | |_) |
+ |_____/ \___||___/_|\_\\__\___/| .__/ 
+                                | |    
+                                |_|    
+___________________________________________
+
+# Adobe Blockers
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 na2m-pr.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 3dns.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.wip.adobe.com
+0.0.0.0 activate.wip1.adobe.com
+0.0.0.0 activate.wip2.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 adobe-dns-1.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-4.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe.activate.com
+0.0.0.0 adobeereg.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 ereg.wip.adobe.com
+0.0.0.0 ereg.wip1.adobe.com
+0.0.0.0 ereg.wip2.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 ereg.wip4.adobe.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 na2m-pr.licenses.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate.adobe.ipp
+0.0.0.0 practivate.adobe.newoa
+0.0.0.0 practivate.adobe.ntp
+0.0.0.0 wip.adobe.com
+0.0.0.0 wip1.adobe.com
+0.0.0.0 wip2.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 wip4.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 www.adobeereg.com
+0.0.0.0 www.wip.adobe.com
+0.0.0.0 www.wip1.adobe.com
+0.0.0.0 www.wip2.adobe.com
+0.0.0.0 www.wip3.adobe.com
+0.0.0.0 www.wip4.adobe.com
+
+# Luminar blockers
+0.0.0.0 auth.macphun.com
+0.0.0.0 luminar3win.update.skylum.com
+0.0.0.0 luminar3.s3-accelerate.amazonaws.com
+0.0.0.0 luminar4win.update.skylum.com
+0.0.0.0 luminar4.s3-accelerate.amazonaws.com
+0.0.0.0 stats-api.skylum.com
+0.0.0.0 geotargetly-1a441.appspot.com
+0.0.0.0 fx.macphun.com
+0.0.0.0 canonicalizer.ucsuri.tcs
+0.0.0.0 auth.macphun.com
+0.0.0.0 stats-api.skylum.com
+0.0.0.0 api.photolemur.com
+
+# Microsoft Edge Telemetry Blockers
+0.0.0.0 pipe.aria.microsoft.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 www.msn.com
