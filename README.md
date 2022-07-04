@@ -1,10 +1,12 @@
 ﻿# Personal Hosts
-![Latest Release](https://img.shields.io/badge/Latest%20Release-0.1-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-6th%20June%2C%202022-yellowgreen?style=for-the-badge)
+![Latest Release](https://img.shields.io/badge/Latest%20Release-0.2-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-4th%20July%2C%202022-yellowgreen?style=for-the-badge)
 
 
 This project contains the different variations of Host files used to block domains. The files can be used across Windows, Android, Pi Hole, etc. There are a few variations of the files for different use cases.
 
 The source of the project is the ever expanding and mighty useful [Steven Black Hosts](https://github.com/StevenBlack/hosts)
+
+Uses **v 3.10.13** of Steven Black Hosts.
 
 [![Latest Release](https://img.shields.io/github/release/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/releases) [![Last Commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master) [![Commits Since](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master)
 
