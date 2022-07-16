@@ -1,16 +1,22 @@
 ﻿# Personal Hosts
-![Latest Release](https://img.shields.io/badge/Latest%20Release-0.2-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-4th%20July%2C%202022-yellowgreen?style=for-the-badge)
+![Latest Release](https://img.shields.io/badge/Latest%20Release-0.3-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-16th%20July%2C%202022-yellowgreen?style=for-the-badge)
 
 
 This project contains the different variations of Host files used to block domains. The files can be used across Windows, Android, Pi Hole, etc. There are a few variations of the files for different use cases.
 
 The source of the project is the ever expanding and mighty useful [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
-Uses **v 3.10.13** of Steven Black Hosts.
+Uses **v 3.10.15** of Steven Black Hosts.
 
 [![Latest Release](https://img.shields.io/github/release/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/releases) [![Last Commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master) [![Commits Since](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master)
 
 This project uses the default **Unified Hosts + Social list** and modifying it.
+
+## Generating the files
+Python needs to be installed. 
+1. Add the latest Steven Black Hosts\'s file in the Sources/ directory.
+2. Add in the custom hosts file for Desktop, Mobile and Common.
+3. Run the `generate.py` to generate the different flavours of hosts files. Old files will be removed and replaced with new ones.
 
 ## Basic Information
 
@@ -29,19 +35,19 @@ This project uses the default **Unified Hosts + Social list** and modifying it.
 ### Mobile
 1. Default hosts file blocks all - ad + social media + Google Play Services. 
 ***(Blocking Google Services will create issues on the working of Play Store, Maps, Backups, etc.)***
-2. `HOSTS_2` allows the following - 
+2. `HOSTS2` allows the following - 
 	* Reddit
 	* Pinterest
 	* Tumblr
 	* Google Services
-3. `HOSTS_3` allows in addition to `HOSTS_2`, the following - 
+3. `HOSTS3` allows in addition to `HOSTS_2`, the following - 
 	* WhatsApp
-4. `HOSTS_3_1` allows in addition to `HOSTS_3`, the following *(has WhatsApp)* - 
+4. `HOSTS3_1` allows in addition to `HOSTS_3`, the following *(has WhatsApp)* - 
 	* Instagram
-5. `HOSTS_4` allows in addition to `HOSTS_2`, the following *(no WhatsApp)* - 
+5. `HOSTS4` allows in addition to `HOSTS_2`, the following *(no WhatsApp)* - 
 	* Instagram
-6. `HOSTS_5` allows in addition to `HOSTS_2`, the following *(no WhatsApp)* - 
+6. `HOSTS5` allows in addition to `HOSTS_2`, the following *(no WhatsApp)* - 
 	* Twitter
-7. `HOSTS_5_1` allows in addition to `HOSTS_3`, the following *(has WhatsApp)* - 
+7. `HOSTS5_1` allows in addition to `HOSTS_3`, the following *(has WhatsApp)* - 
 	* Twitter
 
