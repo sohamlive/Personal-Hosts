@@ -9,9 +9,11 @@
 #_________________________________________________________
 #
 # Hate Blockers
+0.0.0.0	actionsack.com
 0.0.0.0	anonigviewer.com
 0.0.0.0	apkun.com
 0.0.0.0	backtweets.com
+0.0.0.0	bib.actionsack.com
 0.0.0.0	bird.trom.tf
 0.0.0.0	birdsite.xanny.family
 0.0.0.0	croxyproxy.com
@@ -61,6 +63,7 @@
 0.0.0.0	mail.gmail.com
 0.0.0.0	mail.google.com
 0.0.0.0	mystalk.net
+0.0.0.0	n.actionsack.com
 0.0.0.0	n.hyperborea.cloud
 0.0.0.0	n.ramle.be
 0.0.0.0	ninjalitics.com
@@ -153,6 +156,7 @@
 0.0.0.0	watchinsta.com
 0.0.0.0	webstagram.netlify.app
 0.0.0.0	webstagram.org
+0.0.0.0	www.actionsack.com
 0.0.0.0	www.anonigviewer.com
 0.0.0.0	www.apkun.com
 0.0.0.0	www.backtweets.com
