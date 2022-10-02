@@ -1,12 +1,12 @@
 ﻿# Personal Hosts
-![Latest Release](https://img.shields.io/badge/Latest%20Release-0.7-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-7th%20September%2C%202022-yellowgreen?style=for-the-badge)
+![Latest Release](https://img.shields.io/badge/Latest%20Release-0.8-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-2nd%20Octoberber%2C%202022-yellowgreen?style=for-the-badge)
 
 
 This project contains the different variations of Host files used to block domains. The files can be used across Windows, Android, Pi Hole, etc. There are a few variations of the files for different use cases.
 
 The source of the project is the ever expanding and mighty useful [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
-Uses **v 3.11.13** of Steven Black Hosts.
+Uses **v 3.11.19** of Steven Black Hosts.
 
 [![Latest Release](https://img.shields.io/github/release/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/releases) [![Last Commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master) [![Commits Since](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master)
 
@@ -15,7 +15,7 @@ This project uses the default **Unified Hosts + Social list** and modifying it.
 ## Generating the files
 Python needs to be installed. 
 1. Add the latest Steven Black Hosts\'s file in the Sources/ directory.
-2. Add in the custom hosts file for Desktop, Mobile and Common.
+2. Add in the custom hosts file for Desktop, Mobile and Common. (Use the Excel sheet for quick editing)
 3. Run the `generate.py` to generate the different flavours of hosts files. Old files will be removed and replaced with new ones.
 
 ## Basic Information

@@ -110,6 +110,11 @@
 0.0.0.0	watchinsta.com
 0.0.0.0	webstagram.netlify.app
 0.0.0.0	webstagram.org
+0.0.0.0	hookgram.com
+0.0.0.0	imginn.org
+0.0.0.0	storiesig.app
+0.0.0.0	storiesig.me
+0.0.0.0	instalker.org
 
 # WWW prefixes
 0.0.0.0	www.actionsack.com
@@ -207,6 +212,14 @@
 0.0.0.0	www.webstagram.netlify.app
 0.0.0.0	www.webstagram.org
 0.0.0.0	xnaas.github.io
+0.0.0.0	www.viewprivateinsta.com
+0.0.0.0	www.visibletweets.com
+0.0.0.0	www.watchinsta.com
+0.0.0.0	www.hookgram.com
+0.0.0.0	www.imginn.org
+0.0.0.0	www.storiesig.app
+0.0.0.0	www.storiesig.me
+0.0.0.0	www.instalker.org
 
 # Nitter blocks
 0.0.0.0	bird.trom.tf
