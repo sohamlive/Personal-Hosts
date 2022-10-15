@@ -130,6 +130,8 @@
 0.0.0.0	visibletweets.com
 0.0.0.0	watchinsta.com
 0.0.0.0	webstagram.org
+0.0.0.0	inflact.com
+0.0.0.0	simpliers.com
 
 # WWW prefixes
 0.0.0.0	www.16gram.com
@@ -242,6 +244,8 @@
 0.0.0.0	www.visibletweets.com
 0.0.0.0	www.watchinsta.com
 0.0.0.0	www.webstagram.org
+0.0.0.0	www.inflact.com
+0.0.0.0	www.simpliers.com
 
 # Nitter blocks
 0.0.0.0	bird.trom.tf
