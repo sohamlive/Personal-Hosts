@@ -46,12 +46,14 @@
 0.0.0.0	iglookup.com
 0.0.0.0	igpanda.com
 0.0.0.0	igrab.online
+0.0.0.0	igram.io
 0.0.0.0	igstories.app
 0.0.0.0	ig-stories-viewer.net
 0.0.0.0	imagerocket.com
 0.0.0.0	imagerocket.net
 0.0.0.0	imginn.com
 0.0.0.0	imginn.org
+0.0.0.0	inflact.com
 0.0.0.0	ingramer.com
 0.0.0.0	instabig.net
 0.0.0.0	instadp.com
@@ -69,7 +71,9 @@
 0.0.0.0	instaprivate.com
 0.0.0.0	instaprivateprofileviewer.com
 0.0.0.0	instasaved.net
+0.0.0.0	instasaver.app
 0.0.0.0	insta-stories.com
+0.0.0.0	instastories.net
 0.0.0.0	insta-stories.online
 0.0.0.0	instastories.watch
 0.0.0.0	insta-stories-viewer.com
@@ -100,7 +104,9 @@
 0.0.0.0	privatephotoviewer.com
 0.0.0.0	profileviewer.vercel.app
 0.0.0.0	save-insta.com
+0.0.0.0	simpliers.com
 0.0.0.0	smihub.com
+0.0.0.0	snapinsta.app
 0.0.0.0	sotwe.com
 0.0.0.0	storiesdown.com
 0.0.0.0	storiesig.app
@@ -108,6 +114,7 @@
 0.0.0.0	storiesig.me
 0.0.0.0	storiesig.net
 0.0.0.0	storieswatch.com
+0.0.0.0	storistalker.com
 0.0.0.0	storysaver.net
 0.0.0.0	stweetly.com
 0.0.0.0	t.com.sb
@@ -116,12 +123,14 @@
 0.0.0.0	tweepsmap.com
 0.0.0.0	tweepy.net
 0.0.0.0	tweetbeam.com
+0.0.0.0	twicopy.com
 0.0.0.0	twidoom.com
 0.0.0.0	twiiit.com
 0.0.0.0	twimfeed.com
 0.0.0.0	twimg.com
 0.0.0.0	twipho.net
 0.0.0.0	twipu.net
+0.0.0.0	twisave.com
 0.0.0.0	twitter.com
 0.0.0.0	twittertt.com
 0.0.0.0	twubs.com
@@ -130,8 +139,6 @@
 0.0.0.0	visibletweets.com
 0.0.0.0	watchinsta.com
 0.0.0.0	webstagram.org
-0.0.0.0	inflact.com
-0.0.0.0	simpliers.com
 
 # WWW prefixes
 0.0.0.0	www.16gram.com
@@ -160,12 +167,14 @@
 0.0.0.0	www.iglookup.com
 0.0.0.0	www.igpanda.com
 0.0.0.0	www.igrab.online
+0.0.0.0	www.igram.io
 0.0.0.0	www.igstories.app
 0.0.0.0	www.ig-stories-viewer.net
 0.0.0.0	www.imagerocket.com
 0.0.0.0	www.imagerocket.net
 0.0.0.0	www.imginn.com
 0.0.0.0	www.imginn.org
+0.0.0.0	www.inflact.com
 0.0.0.0	www.ingramer.com
 0.0.0.0	www.instabig.net
 0.0.0.0	www.instadp.com
@@ -183,7 +192,9 @@
 0.0.0.0	www.instaprivate.com
 0.0.0.0	www.instaprivateprofileviewer.com
 0.0.0.0	www.instasaved.net
+0.0.0.0	www.instasaver.app
 0.0.0.0	www.insta-stories.com
+0.0.0.0	www.instastories.net
 0.0.0.0	www.insta-stories.online
 0.0.0.0	www.instastories.watch
 0.0.0.0	www.insta-stories-viewer.com
@@ -214,7 +225,9 @@
 0.0.0.0	www.privatephotoviewer.com
 0.0.0.0	www.profileviewer.vercel.app
 0.0.0.0	www.save-insta.com
+0.0.0.0	www.simpliers.com
 0.0.0.0	www.smihub.com
+0.0.0.0	www.snapinsta.app
 0.0.0.0	www.sotwe.com
 0.0.0.0	www.storiesdown.com
 0.0.0.0	www.storiesig.app
@@ -222,6 +235,7 @@
 0.0.0.0	www.storiesig.me
 0.0.0.0	www.storiesig.net
 0.0.0.0	www.storieswatch.com
+0.0.0.0	www.storistalker.com
 0.0.0.0	www.storysaver.net
 0.0.0.0	www.stweetly.com
 0.0.0.0	www.t.com.sb
@@ -230,12 +244,14 @@
 0.0.0.0	www.tweepsmap.com
 0.0.0.0	www.tweepy.net
 0.0.0.0	www.tweetbeam.com
+0.0.0.0	www.twicopy.com
 0.0.0.0	www.twidoom.com
 0.0.0.0	www.twiiit.com
 0.0.0.0	www.twimfeed.com
 0.0.0.0	www.twimg.com
 0.0.0.0	www.twipho.net
 0.0.0.0	www.twipu.net
+0.0.0.0	www.twisave.com
 0.0.0.0	www.twitter.com
 0.0.0.0	www.twittertt.com
 0.0.0.0	www.twubs.com
@@ -244,8 +260,6 @@
 0.0.0.0	www.visibletweets.com
 0.0.0.0	www.watchinsta.com
 0.0.0.0	www.webstagram.org
-0.0.0.0	www.inflact.com
-0.0.0.0	www.simpliers.com
 
 # Nitter blocks
 0.0.0.0	bird.trom.tf
