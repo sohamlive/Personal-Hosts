@@ -6,7 +6,7 @@ This project contains the different variations of Host files used to block domai
 
 The source of the project is the ever expanding and mighty useful [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
-Uses **v 3.11.24** of Steven Black Hosts.
+Uses **v 3.11.25** of Steven Black Hosts.
 
 [![Latest Release](https://img.shields.io/github/release/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/releases) [![Last Commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master) [![Commits Since](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg?style=flat-square)](https://github.com/StevenBlack/hosts/commits/master)
 
