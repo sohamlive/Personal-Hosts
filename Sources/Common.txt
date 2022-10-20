@@ -17,7 +17,6 @@
 0.0.0.0	twitter.theinfo.org
 0.0.0.0	bib.actionsack.com
 0.0.0.0	n.hyperborea.cloud
-0.0.0.0	n.ramle.be
 
 # Social Media Blockers
 0.0.0.0	16gram.com
@@ -82,6 +81,7 @@
 0.0.0.0	instaviewer.ga
 0.0.0.0	instaviewer.live
 0.0.0.0	instaviewerapp.weebly.com
+0.0.0.0	instaviewers.net
 0.0.0.0	instaviews.net
 0.0.0.0	instaxyz.com
 0.0.0.0	insuiter.com
@@ -203,6 +203,7 @@
 0.0.0.0	www.instaviewer.ga
 0.0.0.0	www.instaviewer.live
 0.0.0.0	www.instaviewerapp.weebly.com
+0.0.0.0	www.instaviewers.net
 0.0.0.0	www.instaviews.net
 0.0.0.0	www.instaxyz.com
 0.0.0.0	www.insuiter.com
@@ -261,7 +262,8 @@
 0.0.0.0	www.watchinsta.com
 0.0.0.0	www.webstagram.org
 
-# Nitter blocks
+# Nitter blocks (no WWW required)
+0.0.0.0	bird.habedieeh.re
 0.0.0.0	bird.trom.tf
 0.0.0.0	birdsite.xanny.family
 0.0.0.0	canada.unofficialbird.com
@@ -271,17 +273,19 @@
 0.0.0.0	n.actionsack.com
 0.0.0.0	n.l5.ca
 0.0.0.0	n.ramle.be
+0.0.0.0	n.sneed.network
 0.0.0.0	nederland.unofficialbird.com
 0.0.0.0	nitter.1d4.us
 0.0.0.0	nitter.42l.fr
 0.0.0.0	nitter.bird.froth.zone
 0.0.0.0	nitter.bus-hit.me
-0.0.0.0	nitter.ca
+0.0.0.0	nitter.caioalonso.com
 0.0.0.0	nitter.catalyst.sx
 0.0.0.0	nitter.cutelab.space
-0.0.0.0	nitter.cz
+0.0.0.0	nitter.d420.de
 0.0.0.0	nitter.dcs0.hu
 0.0.0.0	nitter.domain.glass
+0.0.0.0	nitter.drivet.xyz
 0.0.0.0	nitter.ebnar.xyz
 0.0.0.0	nitter.esmailelbob.xyz
 0.0.0.0	nitter.evil.site
@@ -291,17 +295,17 @@
 0.0.0.0	nitter.fprivacy.com
 0.0.0.0	nitter.garudalinux.org
 0.0.0.0	nitter.grimneko.de
-0.0.0.0	nitter.hu
-0.0.0.0	nitter.ir
-0.0.0.0	nitter.it
+0.0.0.0	nitter.inpt.fr
 0.0.0.0	nitter.kavin.rocks
 0.0.0.0	nitter.kylrth.com
+0.0.0.0	nitter.lacontrevoie.fr
+0.0.0.0	nitter.manasiwibi.com
 0.0.0.0	nitter.mastodon.pro
 0.0.0.0	nitter.mint.lgbt
 0.0.0.0	nitter.moomoo.me
 0.0.0.0	nitter.namazso.eu
+0.0.0.0	nitter.nicfab.eu
 0.0.0.0	nitter.nixnet.services
-0.0.0.0	nitter.nl
 0.0.0.0	nitter.notraxx.ch
 0.0.0.0	nitter.oishi-ra.men
 0.0.0.0	nitter.poast.org
@@ -315,16 +319,18 @@
 0.0.0.0	nitter.rawbit.ninja
 0.0.0.0	nitter.sethforprivacy.com
 0.0.0.0	nitter.slipfox.xyz
+0.0.0.0	nitter.smnz.de
+0.0.0.0	nitter.sneed.network
 0.0.0.0	nitter.snopyta.org
 0.0.0.0	nitter.soopy.moe
 0.0.0.0	nitter.spaceint.fr
 0.0.0.0	nitter.tiekoetter.com
 0.0.0.0	nitter.tokhmi.xyz
+0.0.0.0	nitter.twei.space
 0.0.0.0	nitter.unixfox.eu
 0.0.0.0	nitter.wef.lol
 0.0.0.0	nitter.weiler.rocks
 0.0.0.0	nitter.winscloud.net
-0.0.0.0	notabird.site
 0.0.0.0	nt.vern.cc
 0.0.0.0	ntr.odyssey346.dev
 0.0.0.0	nttr.stream
@@ -340,4 +346,30 @@
 0.0.0.0	twt.funami.tech
 0.0.0.0	twtr.bch.bar
 0.0.0.0	uk.unofficialbird.com
+
+# Nitter Blocks (WWW Required)
+#---> Part I
+0.0.0.0	nitter.at
+0.0.0.0	nitter.ca
+0.0.0.0	nitter.cz
+0.0.0.0	nitter.hu
+0.0.0.0	nitter.ir
+0.0.0.0	nitter.it
+0.0.0.0	nitter.net
+0.0.0.0	nitter.nl
+0.0.0.0	nitter.pw
+0.0.0.0	notabird.site
 0.0.0.0	unofficialbird.com
+
+#---> Part II
+0.0.0.0	www.nitter.at
+0.0.0.0	www.nitter.ca
+0.0.0.0	www.nitter.cz
+0.0.0.0	www.nitter.hu
+0.0.0.0	www.nitter.ir
+0.0.0.0	www.nitter.it
+0.0.0.0	www.nitter.net
+0.0.0.0	www.nitter.nl
+0.0.0.0	www.nitter.pw
+0.0.0.0	www.notabird.site
+0.0.0.0	www.unofficialbird.com
