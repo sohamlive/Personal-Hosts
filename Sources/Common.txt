@@ -10,8 +10,6 @@
 #
 
 # Social Media Blockers (no WWW required)
-0.0.0.0	mail.gmail.com
-0.0.0.0	mail.google.com
 0.0.0.0	webstagram.netlify.app
 0.0.0.0	xnaas.github.io
 0.0.0.0	twitter.theinfo.org
@@ -283,10 +281,12 @@
 0.0.0.0	nederland.unofficialbird.com
 0.0.0.0	nitter.1d4.us
 0.0.0.0	nitter.42l.fr
+0.0.0.0	nitter.adminforge.de
 0.0.0.0	nitter.bird.froth.zone
 0.0.0.0	nitter.bus-hit.me
 0.0.0.0	nitter.caioalonso.com
 0.0.0.0	nitter.catalyst.sx
+0.0.0.0	nitter.c-r-t.tk
 0.0.0.0	nitter.cutelab.space
 0.0.0.0	nitter.d420.de
 0.0.0.0	nitter.dcs0.hu
@@ -301,12 +301,15 @@
 0.0.0.0	nitter.fprivacy.com
 0.0.0.0	nitter.garudalinux.org
 0.0.0.0	nitter.grimneko.de
+0.0.0.0	nitter.hostux.net
 0.0.0.0	nitter.inpt.fr
 0.0.0.0	nitter.kavin.rocks
 0.0.0.0	nitter.kylrth.com
 0.0.0.0	nitter.lacontrevoie.fr
 0.0.0.0	nitter.manasiwibi.com
+0.0.0.0	nitter.mask.sh
 0.0.0.0	nitter.mastodon.pro
+0.0.0.0	nitter.matsuda.tips
 0.0.0.0	nitter.mint.lgbt
 0.0.0.0	nitter.moomoo.me
 0.0.0.0	nitter.namazso.eu
@@ -314,6 +317,7 @@
 0.0.0.0	nitter.nixnet.services
 0.0.0.0	nitter.notraxx.ch
 0.0.0.0	nitter.oishi-ra.men
+0.0.0.0	nitter.platypush.tech
 0.0.0.0	nitter.poast.org
 0.0.0.0	nitter.priv.pw
 0.0.0.0	nitter.privacy.com.de
@@ -330,6 +334,7 @@
 0.0.0.0	nitter.snopyta.org
 0.0.0.0	nitter.soopy.moe
 0.0.0.0	nitter.spaceint.fr
+0.0.0.0	nitter.tannhauser.network
 0.0.0.0	nitter.tiekoetter.com
 0.0.0.0	nitter.tokhmi.xyz
 0.0.0.0	nitter.twei.space
@@ -343,7 +348,6 @@
 0.0.0.0	read.whatever.social
 0.0.0.0	singapore.unofficialbird.com
 0.0.0.0	tw.artemislena.eu
-0.0.0.0	tw.artemislena.eu
 0.0.0.0	tweet.lambda.dance
 0.0.0.0	twitter.076.ne.jp
 0.0.0.0	twitter.beparanoid.de
@@ -352,8 +356,6 @@
 0.0.0.0	twt.funami.tech
 0.0.0.0	twtr.bch.bar
 0.0.0.0	uk.unofficialbird.com
-0.0.0.0	nitter.tannhauser.network
-0.0.0.0	nitter.matsuda.tips
 
 # Nitter Blocks (WWW Required)
 #---> Part I
