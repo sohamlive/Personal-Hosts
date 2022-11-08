@@ -7,6 +7,7 @@ Date - 16th July, 2022
 """
 import os
 import Generator.default
+import Generator.utils
 import Generator.Desktop.desktopHost1
 import Generator.Mobile.hosts1
 import Generator.Mobile.hosts2
@@ -22,6 +23,12 @@ print("***********************")
 print("      Generate.py      ")
 print("***********************")
 
+# Clean up the sources folder
+def step0():
+    print("----- STEP 0 -----")
+    print("Cleaning sources ...")
+    Generator.utils.callAll()
+    print("Done!\n")
 
 # Create the directories
 def step1():
@@ -67,6 +74,7 @@ def step4():
 
 if __name__ == "__main__":
     print("\n")
+    step0()
     step1()
     step2()
     step3()

@@ -21,10 +21,13 @@ def generateFile():
 
 
 def addCommon():
+    urls = ["0.0.0.0 twitter.com", "0.0.0.0 www.twitter.com"]
     fileOutput = open("Mobile/hosts5_1", "a")
     with open("Sources/Common.txt", "r") as addFile:
         fileOutput.write("\n")
         for line in addFile:
+            if line.strip() in urls:
+                line = addFile.__next__()
             fileOutput.write(line)
         fileOutput.write("\n")
 
