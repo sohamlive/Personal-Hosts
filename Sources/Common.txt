@@ -283,6 +283,7 @@
 0.0.0.0 nitter.1d4.us
 0.0.0.0 nitter.42l.fr
 0.0.0.0 nitter.adminforge.de
+0.0.0.0 nitter.arcticfoxes.net
 0.0.0.0 nitter.bird.froth.zone
 0.0.0.0 nitter.bus-hit.me
 0.0.0.0 nitter.caioalonso.com
@@ -308,6 +309,7 @@
 0.0.0.0 nitter.kylrth.com
 0.0.0.0 nitter.lacontrevoie.fr
 0.0.0.0 nitter.manasiwibi.com
+0.0.0.0 nitter.marcopisco.com
 0.0.0.0 nitter.mask.sh
 0.0.0.0 nitter.mastodon.pro
 0.0.0.0 nitter.matsuda.tips
@@ -328,6 +330,7 @@
 0.0.0.0 nitter.pussthecat.org
 0.0.0.0 nitter.qwik.space
 0.0.0.0 nitter.rawbit.ninja
+0.0.0.0 nitter.selfhostable.net
 0.0.0.0 nitter.sethforprivacy.com
 0.0.0.0 nitter.slipfox.xyz
 0.0.0.0 nitter.smnz.de
@@ -340,6 +343,7 @@
 0.0.0.0 nitter.tokhmi.xyz
 0.0.0.0 nitter.twei.space
 0.0.0.0 nitter.unixfox.eu
+0.0.0.0 nitter.us.projectsegfau.lt
 0.0.0.0 nitter.wef.lol
 0.0.0.0 nitter.weiler.rocks
 0.0.0.0 nitter.winscloud.net
@@ -368,9 +372,11 @@
 0.0.0.0 nitter.it
 0.0.0.0 nitter.net
 0.0.0.0 nitter.nl
+0.0.0.0 nitter.pufe.org
 0.0.0.0 nitter.pw
 0.0.0.0 notabird.site
 0.0.0.0 unofficialbird.com
+
 
 #---> Part II
 0.0.0.0 www.nitter.at
@@ -381,9 +387,11 @@
 0.0.0.0 www.nitter.it
 0.0.0.0 www.nitter.net
 0.0.0.0 www.nitter.nl
+0.0.0.0 www.nitter.pufe.org
 0.0.0.0 www.nitter.pw
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
+
 
 
 
