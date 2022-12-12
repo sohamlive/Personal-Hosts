@@ -41,6 +41,7 @@
 0.0.0.0 greatfon.com
 0.0.0.0 gwaa.net
 0.0.0.0 hookgram.com
+0.0.0.0 iganony.com
 0.0.0.0 iglookup.com
 0.0.0.0 igpanda.com
 0.0.0.0 igrab.online
@@ -83,10 +84,12 @@
 0.0.0.0 instaviewers.net
 0.0.0.0 instaviews.net
 0.0.0.0 instaxyz.com
+0.0.0.0 inststalk.com
 0.0.0.0 insuiter.com
 0.0.0.0 i-private-profile-viewer.com
 0.0.0.0 istaprivate.com
 0.0.0.0 likecreeper.com
+0.0.0.0 mollygram.com
 0.0.0.0 mystalk.net
 0.0.0.0 mythreadreader.com
 0.0.0.0 ninjalitics.com
@@ -132,15 +135,13 @@
 0.0.0.0 twisave.com
 0.0.0.0 twitter.com
 0.0.0.0 twittertt.com
+0.0.0.0 twstalker.com
 0.0.0.0 twubs.com
 0.0.0.0 viewerig.com
 0.0.0.0 viewprivateinsta.com
 0.0.0.0 visibletweets.com
 0.0.0.0 watchinsta.com
 0.0.0.0 webstagram.org
-0.0.0.0 iganony.com
-0.0.0.0 inststalk.com
-0.0.0.0 twstalker.com
 
 # WWW prefixes
 0.0.0.0 www.16gram.com
@@ -166,6 +167,7 @@
 0.0.0.0 www.greatfon.com
 0.0.0.0 www.gwaa.net
 0.0.0.0 www.hookgram.com
+0.0.0.0 www.iganony.com
 0.0.0.0 www.iglookup.com
 0.0.0.0 www.igpanda.com
 0.0.0.0 www.igrab.online
@@ -208,10 +210,12 @@
 0.0.0.0 www.instaviewers.net
 0.0.0.0 www.instaviews.net
 0.0.0.0 www.instaxyz.com
+0.0.0.0 www.inststalk.com
 0.0.0.0 www.insuiter.com
 0.0.0.0 www.i-private-profile-viewer.com
 0.0.0.0 www.istaprivate.com
 0.0.0.0 www.likecreeper.com
+0.0.0.0 www.mollygram.com
 0.0.0.0 www.mystalk.net
 0.0.0.0 www.mythreadreader.com
 0.0.0.0 www.ninjalitics.com
@@ -257,20 +261,19 @@
 0.0.0.0 www.twisave.com
 0.0.0.0 www.twitter.com
 0.0.0.0 www.twittertt.com
+0.0.0.0 www.twstalker.com
 0.0.0.0 www.twubs.com
 0.0.0.0 www.viewerig.com
 0.0.0.0 www.viewprivateinsta.com
 0.0.0.0 www.visibletweets.com
 0.0.0.0 www.watchinsta.com
 0.0.0.0 www.webstagram.org
-0.0.0.0 www.iganony.com
-0.0.0.0 www.inststalk.com
-0.0.0.0 www.twstalker.com
 
 # Nitter blocks (no WWW required)
 0.0.0.0 bird.habedieeh.re
 0.0.0.0 bird.trom.tf
 0.0.0.0 birdsite.xanny.family
+0.0.0.0 bluebird.codeine.world
 0.0.0.0 canada.unofficialbird.com
 0.0.0.0 de.nttr.stream
 0.0.0.0 fuckthesacklers.network
@@ -291,11 +294,13 @@
 0.0.0.0 nitter.c-r-t.tk
 0.0.0.0 nitter.cutelab.space
 0.0.0.0 nitter.d420.de
+0.0.0.0 nitter.dark.fail
 0.0.0.0 nitter.dcs0.hu
 0.0.0.0 nitter.domain.glass
 0.0.0.0 nitter.drivet.xyz
 0.0.0.0 nitter.ebnar.xyz
 0.0.0.0 nitter.esmailelbob.xyz
+0.0.0.0 nitter.eu.org
 0.0.0.0 nitter.evil.site
 0.0.0.0 nitter.fdn.fr
 0.0.0.0 nitter.fly.dev
@@ -361,7 +366,6 @@
 0.0.0.0 twt.funami.tech
 0.0.0.0 twtr.bch.bar
 0.0.0.0 uk.unofficialbird.com
-0.0.0.0 bluebird.codeine.world
 
 # Nitter Blocks (WWW Required)
 #---> Part I
@@ -377,7 +381,7 @@
 0.0.0.0 nitter.pw
 0.0.0.0 notabird.site
 0.0.0.0 unofficialbird.com
-
+0.0.0.0 nitter.kling.gg
 
 #---> Part II
 0.0.0.0 www.nitter.at
@@ -392,6 +396,8 @@
 0.0.0.0 www.nitter.pw
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
+0.0.0.0 www.nitter.kling.gg
+
 
 
 
