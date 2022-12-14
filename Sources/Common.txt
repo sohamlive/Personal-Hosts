@@ -78,6 +78,7 @@
 0.0.0.0 insta-stories-viewer.com
 0.0.0.0 instastory.net
 0.0.0.0 instastoryviewer.com
+0.0.0.0 insta-story-viewer.pl
 0.0.0.0 instaviewer.ga
 0.0.0.0 instaviewer.live
 0.0.0.0 instaviewerapp.weebly.com
@@ -118,6 +119,7 @@
 0.0.0.0 storieswatch.com
 0.0.0.0 storistalker.com
 0.0.0.0 storysaver.net
+0.0.0.0 storyviewer.io
 0.0.0.0 stweetly.com
 0.0.0.0 t.com.sb
 0.0.0.0 thepicgram.com
@@ -204,6 +206,7 @@
 0.0.0.0 www.insta-stories-viewer.com
 0.0.0.0 www.instastory.net
 0.0.0.0 www.instastoryviewer.com
+0.0.0.0 www.insta-story-viewer.pl
 0.0.0.0 www.instaviewer.ga
 0.0.0.0 www.instaviewer.live
 0.0.0.0 www.instaviewerapp.weebly.com
@@ -244,6 +247,7 @@
 0.0.0.0 www.storieswatch.com
 0.0.0.0 www.storistalker.com
 0.0.0.0 www.storysaver.net
+0.0.0.0 www.storyviewer.io
 0.0.0.0 www.stweetly.com
 0.0.0.0 www.t.com.sb
 0.0.0.0 www.thepicgram.com
@@ -366,6 +370,8 @@
 0.0.0.0 twt.funami.tech
 0.0.0.0 twtr.bch.bar
 0.0.0.0 uk.unofficialbird.com
+0.0.0.0 twitter.jae.su
+0.0.0.0 twitter.privacy.com.de
 
 # Nitter Blocks (WWW Required)
 #---> Part I
@@ -397,6 +403,7 @@
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
 0.0.0.0 www.nitter.kling.gg
+
 
 
 
