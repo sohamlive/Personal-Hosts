@@ -380,6 +380,7 @@
 0.0.0.0 twitter.privacy.com.de
 0.0.0.0 twitter.privacy.com.de
 0.0.0.0 birdo.stuehieyr.com
+0.0.0.0 nitter.ktachibana.party
 
 # Nitter Blocks (WWW Required)
 #---> Part I
@@ -411,6 +412,7 @@
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
 0.0.0.0 www.nitter.kling.gg
+
 
 
 
