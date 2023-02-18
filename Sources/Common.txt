@@ -381,6 +381,15 @@
 0.0.0.0 twitter.privacy.com.de
 0.0.0.0 birdo.stuehieyr.com
 0.0.0.0 nitter.ktachibana.party
+0.0.0.0 nitter.riverside.rocks
+0.0.0.0 nitter.girlboss.ceo
+0.0.0.0 nitter.lunar.icu
+0.0.0.0 twitter.moe.ngo
+0.0.0.0 nitter.freedit.eu
+0.0.0.0 ntr.frail.duckdns.org
+0.0.0.0 nitter.us.projectsegfau.lt
+0.0.0.0 nitter.librenode.org
+0.0.0.0 n.opnxng.com
 
 # Nitter Blocks (WWW Required)
 #---> Part I
@@ -412,6 +421,7 @@
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
 0.0.0.0 www.nitter.kling.gg
+
 
 
 
