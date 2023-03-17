@@ -147,6 +147,7 @@
 0.0.0.0 instasupersave.com
 0.0.0.0 exploreig.com
 0.0.0.0 in-stories.online
+0.0.0.0 smihub.io
 
 # WWW prefixes
 0.0.0.0 www.16gram.com
@@ -278,6 +279,7 @@
 0.0.0.0 www.instasupersave.com
 0.0.0.0 www.exploreig.com
 0.0.0.0 www.in-stories.online
+0.0.0.0 www.smihub.io
 
 # Nitter blocks (no WWW required)
 0.0.0.0 bird.habedieeh.re
@@ -390,6 +392,11 @@
 0.0.0.0 nitter.us.projectsegfau.lt
 0.0.0.0 nitter.librenode.org
 0.0.0.0 n.opnxng.com
+0.0.0.0 nitter.plus.st
+0.0.0.0 nitter.in.projectsegfau.lt
+0.0.0.0 nitter.tux.pizza
+0.0.0.0 t.floss.media
+0.0.0.0 twit.hell.rodeo
 
 # Nitter Blocks (WWW Required)
 #---> Part I
@@ -421,6 +428,8 @@
 0.0.0.0 www.notabird.site
 0.0.0.0 www.unofficialbird.com
 0.0.0.0 www.nitter.kling.gg
+
+
 
 
 
