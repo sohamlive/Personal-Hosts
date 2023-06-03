@@ -1,5 +1,5 @@
 ﻿# Personal Hosts
-![Latest Release](https://img.shields.io/badge/Latest%20Release-1.5.2-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-3rd%20June%2C%202023-yellowgreen?style=for-the-badge)
+![Latest Release](https://img.shields.io/badge/Latest%20Release-1.5.3-blue?style=for-the-badge) ![Latest Release](https://img.shields.io/badge/Last%20Update-3rd%20June%2C%202023-yellowgreen?style=for-the-badge)
 
 
 This project contains the different variations of Host files used to block domains. The files can be used across Windows, Android, Pi Hole, etc. There are a few variations of the files for different use cases.
